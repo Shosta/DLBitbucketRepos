@@ -1,4 +1,4 @@
-# DLBiutbucketRepos
+# DLBitbucketRepos
 Download all the repositories that you can access on Bitbucket
 
 This program is made to clone all the repositories that you have on Bitbucket at once.
